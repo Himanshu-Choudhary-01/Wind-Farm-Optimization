@@ -11,8 +11,3 @@ for solving an optimization problem related to wind energy systems.
 - Custom objective function evaluation
 - Modular and extensible MATLAB code
 
-## Project Structure
-src/ -> Core MATLAB source files
-data/ -> Input data (optional)
-results/ -> Output figures and results
-
