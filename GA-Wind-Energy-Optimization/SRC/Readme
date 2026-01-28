@@ -1,0 +1,18 @@
+# Genetic Algorithm for Wind Energy Optimization (MATLAB)
+
+This repository contains a MATLAB implementation of a **Genetic Algorithm (GA)**
+for solving an optimization problem related to wind energy systems.
+
+## Features
+- Real-coded Genetic Algorithm
+- SBX (Simulated Binary Crossover)
+- Mutation and Selection operators
+- Duplicate-solution removal
+- Custom objective function evaluation
+- Modular and extensible MATLAB code
+
+## Project Structure
+src/ -> Core MATLAB source files
+data/ -> Input data (optional)
+results/ -> Output figures and results
+
