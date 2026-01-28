@@ -1,7 +1,9 @@
 # Genetic Algorithm for Wind Energy Optimization (MATLAB)
 
-This repository contains a MATLAB implementation of a **Genetic Algorithm (GA)**
-for solving an optimization problem related to wind energy systems.
+This repository contains a MATLAB implementation of a **Genetic Algorithm (GA)**  
+for solving an optimization problem related to **wind energy systems**.
+
+---
 
 ## Features
 - Real-coded Genetic Algorithm
@@ -10,4 +12,5 @@ for solving an optimization problem related to wind energy systems.
 - Duplicate-solution removal
 - Custom objective function evaluation
 - Modular and extensible MATLAB code
+
 
